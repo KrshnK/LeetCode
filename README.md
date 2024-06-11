@@ -13,3 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KrshnK/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrshnK/Leet/tree/master/0206-reverse-linked-list) |
+# String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/KrshnK/Leet/tree/master/3379-score-of-a-string) |
