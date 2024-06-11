@@ -3,7 +3,7 @@
  * @return {number}
  */
 var reverse = function(x) {
-    let rev = 0;
+    let rev = 0
     let sign = Math.sign(x);
     let num = Math.abs(x);
 
