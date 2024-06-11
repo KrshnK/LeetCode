@@ -16,4 +16,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/KrshnK/Leet/tree/master/0065-valid-number) |
 | [3379-score-of-a-string](https://github.com/KrshnK/Leet/tree/master/3379-score-of-a-string) |
