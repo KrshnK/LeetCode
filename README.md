@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrshnK/Leet/tree/master/0001-two-sum) |
+| [1580-shuffle-the-array](https://github.com/KrshnK/Leet/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/KrshnK/Leet/tree/master/2058-concatenation-of-array) |
 # Hash Table
 |  |
