@@ -4,11 +4,11 @@
  * @return {number[]}
  */
 var shuffle = function (nums, n) {
-    let arr = nums.splice(0,n)
-    let str = []
+    let arr = nums.splice(n)
+    let newArr = []
     for (let i = 0; i < n; i++) {
-        str.push(arr[i])
-        str.push(nums[i])
+        newArr.push(nums[i])
+        newArr.push(arr[i])
     }
-    return str
+    return newArr
 };
