@@ -5,12 +5,10 @@
  */
 var kidsWithCandies = function (candies, extraCandies) {
     let result = []
-    maxCand = Math.max(...candies)
-
     for (let i = 0; i < candies.length; i++) {
         let add;
         add = candies[i] + extraCandies
-        if (add >= maxCand) {
+        if (add >= Math.max(...candies)) {
             result[i] = true
         } else {
             result[i] = false
