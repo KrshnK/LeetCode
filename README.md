@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KrshnK/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/KrshnK/Leet/tree/master/0065-valid-number) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1894-merge-strings-alternately](https://github.com/KrshnK/Leet/tree/master/1894-merge-strings-alternately) |
 | [3379-score-of-a-string](https://github.com/KrshnK/Leet/tree/master/3379-score-of-a-string) |
 # Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrshnK/Leet/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/KrshnK/Leet/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/KrshnK/Leet/tree/master/2058-concatenation-of-array) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrshnK/Leet/tree/master/0001-two-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 # Simulation
 |  |
 | ------- |
