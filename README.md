@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KrshnK/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KrshnK/Leet/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KrshnK/Leet/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KrshnK/Leet/tree/master/1013-fibonacci-number) |
 # String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0007-reverse-integer](https://github.com/KrshnK/Leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KrshnK/Leet/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/KrshnK/Leet/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KrshnK/Leet/tree/master/1013-fibonacci-number) |
 # Array
 |  |
@@ -75,3 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/KrshnK/Leet/tree/master/1013-fibonacci-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KrshnK/Leet/tree/master/0231-power-of-two) |
