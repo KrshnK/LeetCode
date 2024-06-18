@@ -4,6 +4,5 @@
  */
 var fib = function(n) {
     if(n<2) return n
-    let f = fib(n-1) + fib(n-2)
-    return f
+    return fib(n-1) + fib(n-2)
 };
