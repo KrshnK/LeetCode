@@ -11,4 +11,6 @@ var reverseString = function(s) {
         first++
         last--
      }
+     // another method
+     // s.reverse()
 };
