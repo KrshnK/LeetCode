@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KrshnK/Leet/tree/master/0008-string-to-integer-atoi) |
 | [0065-valid-number](https://github.com/KrshnK/Leet/tree/master/0065-valid-number) |
+| [0344-reverse-string](https://github.com/KrshnK/Leet/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1894-merge-strings-alternately](https://github.com/KrshnK/Leet/tree/master/1894-merge-strings-alternately) |
 | [3379-score-of-a-string](https://github.com/KrshnK/Leet/tree/master/3379-score-of-a-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/KrshnK/Leet/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/KrshnK/Leet/tree/master/1894-merge-strings-alternately) |
 # Stack
 |  |
