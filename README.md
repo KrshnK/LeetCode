@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/KrshnK/Leet/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/KrshnK/Leet/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/KrshnK/Leet/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/KrshnK/Leet/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/KrshnK/Leet/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrshnK/Leet/tree/master/0094-binary-tree-inorder-traversal) |
 # Tree
 |  |
