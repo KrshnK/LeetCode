@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/KrshnK/Leet/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KrshnK/Leet/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/KrshnK/Leet/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KrshnK/Leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/KrshnK/Leet/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/KrshnK/Leet/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KrshnK/Leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Hash Table
 |  |
 | ------- |
@@ -88,3 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KrshnK/Leet/tree/master/0069-sqrtx) |
+# Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/KrshnK/Leet/tree/master/2106-find-greatest-common-divisor-of-array) |
