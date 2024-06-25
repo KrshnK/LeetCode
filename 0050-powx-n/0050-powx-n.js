@@ -14,6 +14,6 @@ var myPow = function(x, n) {
     if(n%2==0){
         let half = myPow(x,n/2)
         return half*half
-    }
-    return x * myPow(x,n-1)
+    }else{
+    return x * myPow(x,n-1) }
 };
