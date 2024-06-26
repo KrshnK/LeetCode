@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrshnK/Leet/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/KrshnK/Leet/tree/master/0088-merge-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/KrshnK/Leet/tree/master/1580-shuffle-the-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KrshnK/Leet/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/KrshnK/Leet/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/KrshnK/Leet/tree/master/1894-merge-strings-alternately) |
 # Stack
@@ -99,3 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KrshnK/Leet/tree/master/2106-find-greatest-common-divisor-of-array) |
+# Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KrshnK/Leet/tree/master/0088-merge-sorted-array) |
