@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/KrshnK/Leet/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/KrshnK/Leet/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/KrshnK/Leet/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/KrshnK/Leet/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/KrshnK/Leet/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1894-merge-strings-alternately](https://github.com/KrshnK/Leet/tree/master/1894-merge-strings-alternately) |
 | [3379-score-of-a-string](https://github.com/KrshnK/Leet/tree/master/3379-score-of-a-string) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/KrshnK/Leet/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/KrshnK/Leet/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/KrshnK/Leet/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/KrshnK/Leet/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/KrshnK/Leet/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/KrshnK/Leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 # Array
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 # Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/KrshnK/Leet/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/KrshnK/Leet/tree/master/2058-concatenation-of-array) |
 # Two Pointers
 |  |
