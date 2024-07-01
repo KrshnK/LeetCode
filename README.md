@@ -120,5 +120,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/KrshnK/Leet/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/KrshnK/Leet/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
