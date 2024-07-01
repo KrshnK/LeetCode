@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/KrshnK/Leet/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Math
 |  |
 | ------- |
