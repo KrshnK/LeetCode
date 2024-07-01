@@ -111,3 +111,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrshnK/Leet/tree/master/0014-longest-common-prefix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+<!---LeetCode Topics End-->
