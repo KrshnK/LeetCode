@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Math
+|  |
+| ------- |
+| [2556-convert-the-temperature](https://github.com/KrshnK/Leet/tree/master/2556-convert-the-temperature) |
 <!---LeetCode Topics End-->
