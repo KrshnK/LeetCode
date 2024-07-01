@@ -10,16 +10,16 @@
  * @param {TreeNode} root
  * @return {number[]}
  */
-var inorderTraversal = function(root) {
-    let result = []
-    inOrder(root,result)
-    return result
+var inorderTraversal = function (root) {
+  let result = [];
+  inOrder(root, result);
+  return result;
 
-    function inOrder(root,result) {
-        if(root !== null){
-        inOrder(root.left,result)
-        result.push(root.val)
-        inOrder(root.right,result)
-        }
+  function inOrder(root, result) {
+    if (root !== null) {
+      inOrder(root.left, result);
+      result.push(root.val);
+      inOrder(root.right, result);
     }
+  }
 };

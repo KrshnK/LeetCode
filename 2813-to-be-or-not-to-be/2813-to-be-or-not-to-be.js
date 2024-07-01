@@ -13,6 +13,6 @@ function expect(val) {
       } else {
         throw new Error("Equal");
       }
-    }
-  }
+    },
+  };
 }
