@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/KrshnK/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/KrshnK/Leet/tree/master/1603-running-sum-of-1d-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/KrshnK/Leet/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Math
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/KrshnK/Leet/tree/master/2491-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/KrshnK/Leet/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
