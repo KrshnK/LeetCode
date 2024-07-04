@@ -1,19 +1,25 @@
-function createCounter(init){
-        let temp = init
-    const increment = function increment(){
-         init++;
-        return init;
+/**
+ * @param {integer} init
+ * @return { increment: Function, decrement: Function, reset: Function }
+ */
+var createCounter = function (init) {
+    let val = init
+    return {
+        increment() {
+            return ++val
+        },
+        decrement() {
+            return --val
+        },
+        reset() { 
+            val = init
+            return val }
     }
-    const reset = function reset(){
-        init=temp
-        return init;
-    }
-    const decrement = function decrement(){
-        init--;
-        return init;
-    }
+};
 
-    return {increment,reset,decrement}
-}
-
-createCounter(5)
+/**
+ * const counter = createCounter(5)
+ * counter.increment(); // 6
+ * counter.reset(); // 5
+ * counter.decrement(); // 4
+ */
