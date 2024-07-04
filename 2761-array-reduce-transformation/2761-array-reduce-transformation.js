@@ -5,12 +5,12 @@
  * @return {number}
  */
 var reduce = function (nums, fn, init) {
-    let val = init
-    const len = nums.length
-    // if(nums==[]) return init
+  let val = init;
+  const len = nums.length;
+  // if(nums==[]) return init
 
-    for (let i = 0; i < len; i++) {
-        val = fn(val, nums[i])
-    }
-    return val
+  for (let i = 0; i < len; i++) {
+    val = fn(val, nums[i]);
+  }
+  return val;
 };
