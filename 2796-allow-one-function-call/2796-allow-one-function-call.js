@@ -3,12 +3,12 @@
  * @return {Function}
  */
 var once = function (fn) {
-    let call = 0
-    return function (...args) {
-        call++
-        if (call > 1) return undefined
-        return fn(...args)
-    }
+  let call = 0;
+  return function (...args) {
+    call++;
+    if (call > 1) return undefined;
+    return fn(...args);
+  };
 };
 
 /**
