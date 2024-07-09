@@ -6,10 +6,12 @@
  * @return {boolean}
  */
 var validPath = function (n, edges, start, dest) {
-     const graph = {}
-     const stack = [start]
-    const visited = new Set()
-    
+    const graph = createGraph(edges)
+    return hasPath(graph, start, dest)
+};
+
+const createGraph = (edges) => {
+    const graph = {}
     for (const edge of edges) {
         const [a, b] = edge
         if (!(a in graph)) graph[a] = []
@@ -17,6 +19,12 @@ var validPath = function (n, edges, start, dest) {
         graph[a].push(b)
         graph[b].push(a)
     }
+    return graph
+}
+
+const hasPath = (graph, start, dest) => {
+    const stack = [start]
+    const visited = new Set()
 
     while (stack.length > 0) {
         const node = stack.pop()
@@ -29,4 +37,4 @@ var validPath = function (n, edges, start, dest) {
         }
     }
     return false
-};
+}
