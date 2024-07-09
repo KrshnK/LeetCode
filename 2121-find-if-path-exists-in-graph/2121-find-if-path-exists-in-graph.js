@@ -1,30 +1,40 @@
-function validPath(n, edges, source, destination) {
-    // Step 1: Build the graph using adjacency list
-    const graph = new Array(n).fill().map(() => []);
-    for (const [u, v] of edges) {
-        graph[u].push(v);
-        graph[v].push(u);
+/**
+ * @param {number} n
+ * @param {number[][]} edges
+ * @param {number} source
+ * @param {number} destination
+ * @return {boolean}
+ */
+var validPath = function (n, edges, start, dest) {
+    const graph = createGraph(edges)
+    return hasPath(graph, start, dest)
+};
+
+const createGraph = (edges) => {
+    const graph = {}
+    for (const edge of edges) {
+        const [a, b] = edge
+        if (!(a in graph)) graph[a] = []
+        if (!(b in graph)) graph[b] = []
+        graph[a].push(b)
+        graph[b].push(a)
     }
-    
-    // Step 2: Perform DFS to find if there's a path from source to destination
-    const visited = new Array(n).fill(false);
-    
-    function dfs(node) {
-        if (node === destination) {
-            return true;
-        }
-        visited[node] = true;
-        for (const neighbor of graph[node]) {
-            if (!visited[neighbor]) {
-                if (dfs(neighbor)) {
-                    return true;
-                }
-            }
-        }
-        return false;
-    }
-    
-    // Start DFS from the source vertex
-    return dfs(source);
+    return graph
 }
 
+const hasPath = (graph, start, dest) => {
+    const stack = [start]
+    const visited = new Set()
+
+    while (stack.length > 0) {
+        const node = stack.pop()
+        if (node == dest) return true
+        if (!visited.has(node)) {
+            visited.add(node)
+            for (const neighbour of graph[node]) {
+                stack.push(neighbour)
+            }
+        }
+    }
+    return false
+}
