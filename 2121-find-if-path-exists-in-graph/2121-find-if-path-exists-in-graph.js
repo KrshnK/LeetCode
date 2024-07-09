@@ -7,6 +7,9 @@
  */
 var validPath = function (n, edges, start, dest) {
      const graph = {}
+     const stack = [start]
+    const visited = new Set()
+    
     for (const edge of edges) {
         const [a, b] = edge
         if (!(a in graph)) graph[a] = []
@@ -14,8 +17,6 @@ var validPath = function (n, edges, start, dest) {
         graph[a].push(b)
         graph[b].push(a)
     }
-     const stack = [start]
-    const visited = new Set()
 
     while (stack.length > 0) {
         const node = stack.pop()
