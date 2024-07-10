@@ -12,6 +12,7 @@ var missingNumber = function (nums) {
     for (let i = 0; i < len; i++) {
         if (nums[i] !== i) {
             return i
+            break
         }
     }
 };
