@@ -4,14 +4,12 @@
  */
 var minPathSum = function (grid, r = 0, c = 0, memo = {}) {
     const pos = r + ',' + c
-    const m = grid.length
-    const n = grid[0].length
 
     if (pos in memo) return memo[pos]
-    if (r >= m || c >= n) {
+    if (r >= grid.length || c >= grid[0].length) {
         return Infinity
     }
-    if (r === m - 1 && c === n - 1) {
+    if (r === grid.length - 1 && c === grid[0].length - 1) {
         return grid[r][c]
     }
 
