@@ -7,8 +7,8 @@ var moveZeroes = function (nums) {
 
     for (let readIndex = 0; readIndex < nums.length; readIndex++) {
         if (nums[readIndex] !== 0) {
-            nums[writeIndex] = nums[readIndex]
-            writeIndex++
+            nums[writeIndex++] = nums[readIndex]
+            // writeIndex++
         }
     }
 
