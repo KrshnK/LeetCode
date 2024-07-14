@@ -15,6 +15,7 @@ var levelOrder = function (root) {
     const queue = [root]
 
     if(!root) return res
+    
     while (queue.length > 0) {
         const size = queue.length
         const level = []
