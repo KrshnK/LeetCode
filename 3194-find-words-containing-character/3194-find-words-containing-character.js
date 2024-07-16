@@ -7,11 +7,14 @@ var findWordsContaining = function(words, x) {
     let res = []
 
     for(let i=0;i<words.length;i++){
-        let set = new Set(words[i])
-        if(set.has(x)){
+        // let set = new Set(words[i])
+        // if(set.has(x)){
+        //     res.push(i)
+        // }
+        // set = []
+        if(words[i].includes(x)){
             res.push(i)
         }
-        set = []
     }
 
     return res
