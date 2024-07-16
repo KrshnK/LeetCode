@@ -11,15 +11,15 @@ var reverseWords = function (s) {
         if (s[i] !== ' ') {
             word += s[i]
         } else if (word.length > 0) {
-            res.unshift(word)
+            res.push(word)
             word = ""
         }
     }
     if (word.length > 0) {
-        res.unshift(word)
+        res.push(word)
     }
 
-    return res.join(' ')
+    return res.reverse().join(' ')
 };
 
 
