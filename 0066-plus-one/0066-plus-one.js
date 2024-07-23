@@ -2,8 +2,7 @@
  * @param {number[]} digits
  * @return {number[]}
  */
-var plusOne = function(digits) {
-    let num = BigInt(digits.join(''))
-    num = num + BigInt(1)
+var plusOne = function (digits) {
+    let num = BigInt(digits.join('')) + BigInt(1)
     return num.toString().split('')
 };
