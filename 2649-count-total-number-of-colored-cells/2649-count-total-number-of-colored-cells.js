@@ -7,7 +7,7 @@ var coloredCells = function (n) {
 
     for (let i = 0; i < n; i++) {
         val = val + 4 * i
-  }
+    }
 
     return val
 };
