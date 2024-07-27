@@ -3,11 +3,14 @@
  * @return {number}
  */
 var coloredCells = function (n) {
-    let val = 1
+    // let val = 1
 
-    for (let i = 0; i < n; i++) {
-        val = val + 4 * i
-    }
+    // for (let i = 0; i < n; i++) {
+    //     val = val + 4 * i
+    // }
 
-    return val
+    // return val
+    // ** Another **
+
+    return n == 1 ? n : n ** 2 + (n - 1) ** 2
 };
