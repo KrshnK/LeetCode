@@ -20,29 +20,29 @@ var generateMatrix = function (n) {
 
         // starting row
         for (let i = startingCol; count < total && i <= endingCol; i++) {
-            matrix[startingRow][i] = count + 1
             count++
+            matrix[startingRow][i] = count
         }
         startingRow++
 
         // ending col
         for (let i = startingRow; count < total && i <= endingRow; i++) {
-            matrix[i][endingCol] = count + 1
             count++
+            matrix[i][endingCol] = count
         }
         endingCol--
 
         // ending row
         for (let i = endingCol; count < total && i >= startingCol; i--) {
-            matrix[endingRow][i] = count + 1
             count++
+            matrix[endingRow][i] = count
         }
         endingRow--
 
         // stating col
         for (let i = endingRow; count < total && i >= startingRow; i--) {
-            matrix[i][startingCol] = count + 1
             count++
+            matrix[i][startingCol] = count
         }
         startingCol++
     }
