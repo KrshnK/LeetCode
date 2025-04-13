@@ -3,14 +3,14 @@
  * @return {number}
  */
 var maximumWealth = function (accounts) {
-    let res = []
-    for (let i = 0; i < accounts.length; i++) {
-        let sum = 0
-        for (let j = 0; j <accounts[i].length; j++) {
-            sum += accounts[i][j]
-        }
-        res.push(sum)
+  let res = [];
+  for (let i = 0; i < accounts.length; i++) {
+    let sum = 0;
+    for (let j = 0; j < accounts[i].length; j++) {
+      sum += accounts[i][j];
     }
-    const max = Math.max(...res)
-    return max
+    res.push(sum);
+  }
+  const max = Math.max(...res);
+  return max;
 };
